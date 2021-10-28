@@ -1,17 +1,18 @@
 import React from 'react';
 import './Form.css';
-
+import Landingpic from '../images/Landingpicture.png';
 
 const Form = () => {
 	return (
     <div className="body">
       <div className="item">
-        <h3>“First step to change the world is to be brave enough to create and share ideas”</h3>
+        <h3><b>“First step to change the world is to be brave enough to create and share ideas”</b></h3>
       </div>
       <div className="testbox">
         <form>
+
           <div className="banner">
-            <h1>Ready to change the world</h1>
+          <h1>Ready to change the world</h1>
           </div>
 
           <div className="item">
